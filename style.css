@@ -1,0 +1,82 @@
+
+.akash
+{
+	display: flex;
+	justify-content: space-around;
+}
+.kumar
+{
+	display: flex;
+	justify-content: space-around;
+}
+.fruity
+{
+	background-image:url("../image/app.jfif");	
+	border-size: cover;
+	height: 200px;
+	width: 200px;
+	border: 10px solid orange;
+	box-shadow: 10px 10px;
+	border-radius: 20px;
+	border-style: double;
+
+}
+.fruit
+{
+	background-image: url("../image/straw.jfif");
+		height: 200px;
+			width: 200px;
+				border: 10px solid orange;
+				box-shadow: 10px 10px;
+				border-radius: 20px;
+
+}
+.fruits
+{
+	background-image: url("../image/orga.jfif");
+	height: 200px;
+	width: 200px;
+	border: 10px solid orange;
+					box-shadow: 10px 10px;
+									border-radius: 20px;
+}
+.fru
+{
+	background-image: url("../image/pine - Copy.jfif");  
+		height: 200px;
+			width: 200px;
+				border: 10px solid orange;
+								box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+																	border-radius: 20px;
+
+}
+.fr
+{
+	background-image: url("../image/ban.jfif");
+		height: 200px;
+		width: 200px;									
+		border: 10px solid orange;
+						box-shadow: 10px 10px;
+									border-radius: 20px;
+
+
+}
+.f{
+	background-image:url("../image/water.jfif");
+	height: 200px;
+	width:200px;		
+	border: 10px solid orange;
+					box-shadow: 10px 10px;
+					border-radius: 20px;
+
+}
+h1
+{
+	background-color: blue;
+	color: yellow;
+}
+body
+{
+	background-color: limegreen;
+}
+
